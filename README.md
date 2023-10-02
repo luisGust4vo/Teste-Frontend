@@ -46,3 +46,5 @@ Documentação do Axios
 Documentação do json-server
 
 Este projeto está licenciado sob a Licença MIT.
+
+Lembrando que o projeto foi testando com json-server, para testar com outros dados deve-se mudar as rotas da api
