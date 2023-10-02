@@ -20,6 +20,33 @@ cd seu-projeto
 ```
 Instale as dependências do projeto.
 ```bash
-[npm install]
+npm install
 ```
 Configure as variáveis de ambiente. Copie o arquivo .env.example para .env e atualize as variáveis de acordo com as suas necessidades.
+```bash
+cp .env.example .env
+```
+Executando o Projeto
+Agora que o ambiente está configurado, você pode executar o projeto localmente. Use os seguintes comandos:
+
+Para iniciar o servidor JSON local com json-server:
+```bash
+npm run json-server
+```
+Para iniciar o aplicativo Quasar em modo de desenvolvimento:
+```bash
+npm run dev
+```
+O aplicativo estará disponível em http://localhost:8080.
+
+Desenvolvimento
+Sinta-se à vontade para começar a desenvolver e personalizar este projeto de acordo com suas necessidades. Você pode encontrar mais informações sobre cada tecnologia nas documentações correspondentes:
+
+Documentação do Quasar Framework
+Documentação do Axios
+Documentação do json-server
+Contribuição
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests). Estamos felizes em receber contribuições da comunidade.
+
+Licença
+Este projeto está licenciado sob a Licença MIT.
