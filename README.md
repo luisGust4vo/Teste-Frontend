@@ -48,5 +48,5 @@ Documentação do json-server
 Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests). Estamos felizes em receber contribuições da comunidade.
 
-Licença
+
 Este projeto está licenciado sob a Licença MIT.
