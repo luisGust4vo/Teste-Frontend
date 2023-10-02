@@ -1,6 +1,4 @@
-# Projeto Exemplo
-
-Este é um projeto de exemplo que utiliza diversas tecnologias para criar uma aplicação web. Leia este README para obter informações sobre como configurar, executar e desenvolver este projeto.
+# Projeto frontend
 
 ## Tecnologias Utilizadas
 
