@@ -1,5 +1,5 @@
 # Projeto frontend onfly
-<p align="center"><a href="https://vuejs.org" target="_blank"><img src="https://github.com/vuejs/art/raw/master/logo.png" width="400" alt="Vue.js Logo"></a></p>
+<p align="center"><a href="https://vuejs.org" target="_blank"><img src="https://github.com/vuejs/art/raw/master/logo.png" width="200" alt="Vue.js Logo"></a></p>
 
 - [notify](https://github.com/notifyjs/notifyjs): Uma biblioteca JavaScript para notificações do lado do cliente.
 - [json-server](https://github.com/typicode/json-server): Uma ferramenta para criar uma API REST falsa a partir de um arquivo JSON.
