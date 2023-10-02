@@ -45,8 +45,5 @@ Sinta-se à vontade para começar a desenvolver e personalizar este projeto de a
 Documentação do Quasar Framework
 Documentação do Axios
 Documentação do json-server
-Contribuição
-Se você deseja contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) e enviar solicitações de pull (pull requests). Estamos felizes em receber contribuições da comunidade.
-
 
 Este projeto está licenciado sob a Licença MIT.
