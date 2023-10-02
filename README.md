@@ -19,5 +19,7 @@ git clone https://github.com/seu-usuario/seu-projeto.git
 cd seu-projeto
 ```
 Instale as dependências do projeto.
+```bash
 [npm install]
+```
 Configure as variáveis de ambiente. Copie o arquivo .env.example para .env e atualize as variáveis de acordo com as suas necessidades.
