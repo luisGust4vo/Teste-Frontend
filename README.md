@@ -1,7 +1,5 @@
 # Projeto frontend onfly
 
-## Tecnologias Utilizadas
-
 - [notify](https://github.com/notifyjs/notifyjs): Uma biblioteca JavaScript para notificações do lado do cliente.
 - [json-server](https://github.com/typicode/json-server): Uma ferramenta para criar uma API REST falsa a partir de um arquivo JSON.
 - [Quasar Framework](https://quasar.dev/): Um framework Vue.js para criar aplicativos web, móveis e de desktop com facilidade.
